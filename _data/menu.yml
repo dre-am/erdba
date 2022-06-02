@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: essayist/escritor  
+  - title: empirical
     entries:
       - title: blog
         url: https://thestrangledwrench.wordpress.com
@@ -11,7 +11,7 @@ entries:
       - title: faia
         url: https://drive.google.com/file/d/10vS-w4XsIWSSy4RuAxooYq7SJrNYijiw/view?usp=sharing
 
-  - title: researcher/rebuscador 
+  - title: racional
     entries:
       - title: papers 
         entries:
@@ -30,18 +30,18 @@ entries:
           - title: msc
             url: https://drive.google.com/file/d/1-L6vWkw-_4kOdHa599ot673lzDd6AJ7N/view?usp=sharing
 
-  - title: dream/desvarios
+  - title: dream
     entries:
       - title: insta
         url: https://instagram.com/_dre.4m
 
-  - title: nobody/ninguém
+  - title: nobody
     entries:
       - title: message in a bottle
         url: mailto:joaopess0a@protonmail.com
 
 
-  - title: Avi/Avi
+  - title: Avi
     entries:
       - title: lamaa
         url: https://lamaa.org
