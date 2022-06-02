@@ -11,11 +11,46 @@ entries:
       - title: faia
         url: https://drive.google.com/file/d/10vS-w4XsIWSSy4RuAxooYq7SJrNYijiw/view?usp=sharing
       
-   - title: researcher/rebuscador  
+  - title: r
     entries:
-      - title: papers
+      - title: researcher/rebuscador  
+        entries:
+          - title: papers
+            entries:
+               - title: learning
+                 url: https://drive.google.com/file/d/18_qQ8-507oqNtTXEkoImmo8T-Rlhl3V9/view?usp=sharing
+               - title: confidence
+                 url: https://drive.google.com/file/d/1w1ijH7Ua43Xob0_0WXwWewxIx-MmEj-a/view?usp=sharing
+               - title: weber
+                 url: https://drive.google.com/file/d/1zLeSbLL8mWjQ-HCPpXh79Hqq8cCFTJSQ/view?usp=sharing
+               - title: redundancy
+                 url: https://drive.google.com/file/d/1TQiFe1eKL9KLRhkkwLmiyTgio2cCgNlf/view?usp=sharing
+          - title: thesis
+            entries:
+               - title: phd
+                 url: https://drive.google.com/file/d/1FI5qOQ6mLeuL4c59VT6YqodWg-QE35x7/view?usp=sharing
+               - title: msc
+                 url: https://drive.google.com/file/d/1-L6vWkw-_4kOdHa599ot673lzDd6AJ7N/view?usp=sharing
 
-      - title: thesis
+
+  - title: d
+    entries:
+      - title: dream/desvarios
+        url: https://instagram.com/_dre.4m
+
+  - title: n
+    entries:
+      - title: nobody/ninguém
+        url: mailto:joaopess0a@protonmail.com
 
 
-       
+  - title: A
+    entries:
+      - title: Avi/Avi
+        entries:
+          - title: teacher
+            url: https://lamaa.org
+          - title: link
+            url: https://www.linkedin.com/in/andre-mendonca
+
+
