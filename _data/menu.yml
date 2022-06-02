@@ -2,37 +2,57 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: é
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
+      - title: essayist/escritor  
         entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
+          - title: blog
+            url: https://thestrangledwrench.wordpress.com
+          - title: brain
+            url: https://drive.google.com/file/d/1r3yFiuaahgAB9p5R3vVZO7-TeJzCTmQc/view?usp=sharing
+          - title: faia
+            url: https://drive.google.com/file/d/10vS-w4XsIWSSy4RuAxooYq7SJrNYijiw/view?usp=sharing
+
+  - title: r
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: researcher/rebuscador  
+        entries:
+          - title: papers
+            entries:
+               - title: learning
+                 url: https://drive.google.com/file/d/18_qQ8-507oqNtTXEkoImmo8T-Rlhl3V9/view?usp=sharing
+               - title: confidence
+                 url: https://drive.google.com/file/d/1w1ijH7Ua43Xob0_0WXwWewxIx-MmEj-a/view?usp=sharing
+               - title: weber
+                 url: https://drive.google.com/file/d/1zLeSbLL8mWjQ-HCPpXh79Hqq8cCFTJSQ/view?usp=sharing
+               - title: redundancy
+                 url: https://drive.google.com/file/d/1TQiFe1eKL9KLRhkkwLmiyTgio2cCgNlf/view?usp=sharing
+          - title: thesis
+            entries:
+               - title: phd
+                 url: https://drive.google.com/file/d/1FI5qOQ6mLeuL4c59VT6YqodWg-QE35x7/view?usp=sharing
+               - title: msc
+                 url: https://drive.google.com/file/d/1-L6vWkw-_4kOdHa599ot673lzDd6AJ7N/view?usp=sharing
+
+
+  - title: d
+    entries:
+      - title: dream/desvarios
+        url: https://instagram.com/_dre.4m
+
+  - title: n
+    entries:
+      - title: nobody/ninguém
+        url: mailto:joaopess0a@protonmail.com
+
+
+  - title: A
+    entries:
+      - title: Avi/Avi
+        entries:
+          - title: teacher
+            url: https://lamaa.org
+          - title: link
+            url: https://www.linkedin.com/in/andre-mendonca
+
+
