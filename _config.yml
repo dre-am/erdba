@@ -2,7 +2,7 @@ title: erdna carbon copy
 author: erdna
 email: andre@erdna.cc
 url: https://dre-am.github.io/no-style-please # root address of the site
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   internet root for all things related to the author of this page
 
