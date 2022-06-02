@@ -25,9 +25,9 @@ entries:
             url: https://drive.google.com/file/d/1TQiFe1eKL9KLRhkkwLmiyTgio2cCgNlf/view?usp=sharing
       - title: thesis 
         entries:
-          -tittle: phd
+          - tittle: phd
             url: https://drive.google.com/file/d/1FI5qOQ6mLeuL4c59VT6YqodWg-QE35x7/view?usp=sharing
-          -tittle: msc
+          - tittle: msc
             url: https://drive.google.com/file/d/1-L6vWkw-_4kOdHa599ot673lzDd6AJ7N/view?usp=sharing
 
   - title: d
